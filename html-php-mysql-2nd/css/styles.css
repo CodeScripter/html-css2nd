@@ -1,0 +1,45 @@
+body{
+	background-color: #f8f8f8;
+	font-family: sans-serif;
+}
+
+input[type=text]{
+  width: 80%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  border: none;
+  background: #f1f1f1;
+}
+
+.container {
+  padding: 16px;
+}
+
+.registerBtn:hover{
+opacity: 1;
+}
+
+.registerBtn{
+	background-color: #04AA6D;
+	color: white;
+	padding: 16px 20px;
+	margin: 8px 0;
+	border: none;
+	cursor: pointer;
+	width: 100%;
+	opacity: 0.9;
+}
+
+.detailsBtn{
+	background-color: #04AA6D;
+	color: white;
+	padding: 16px 20px;
+	margin: 50px 16px;
+	border: none;
+	cursor: pointer;
+	width: 20%;
+	opacity: 0.9;	
+}
+.city{
+	margin-left: 35px;
+}
